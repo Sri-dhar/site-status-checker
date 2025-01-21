@@ -1,5 +1,6 @@
 let checkInProgress = new Set();
-const API_KEY = "81497bd6afmshec08b8423ad0ab0p1b8c7cjsn50bb718e8dd9"; // Move this to browser.storage.local
+const API_KEY = "81497bd6afmshec08b8423ad0ab0p1b8c7cjsn50bb718e8dd9"; // Added Intentionally because its not a paid API
+//API_KEY might get expired later, you can get your own from https://rapidapi.com/ajith/api/check-if-website-is-up-or-down
 
 console.log("Background script loaded");
 
