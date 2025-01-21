@@ -1,0 +1,21 @@
+{
+    "version": {
+      "license": "MPL-2.0"
+    },
+    "categories": {
+      "firefox": ["security-privacy", "web-development"]
+    },
+    "requires_payment": false,
+    "homepage": {
+      "en-US": "https://github.com/sri-dhar/site-status-checker"
+    },
+    "support_email": {
+      "en-US": "sridhartuli@gmail.com"
+    },
+    "description": {
+      "en-US": "Automatically checks if websites are down globally or if it's just a local connection issue. Get instant notifications when a website is inaccessible and find out if the problem is widespread or specific to your connection."
+    },
+    "privacy_policy": {
+      "en-US": "https://github.com/sri-dhar/site-status-checker/privacy-policy.md"
+    }
+  }
