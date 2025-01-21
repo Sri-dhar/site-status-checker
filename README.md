@@ -15,7 +15,7 @@ Simple Firefox Addon to tell you if a website is down for everyone or just you w
     ```bash
     cd site-status-checker
     ```
-3. Follow the instructions in the `Install.md` file to add the addon to Firefox.
+3. Follow the instructions in the [`Install.md`](https://github.com/Sri-dhar/site-status-checker/blob/main/Install.md) file to add the addon to Firefox.
 
 ## Usage
 
